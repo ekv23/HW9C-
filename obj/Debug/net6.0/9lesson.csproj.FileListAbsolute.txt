@@ -1,0 +1,15 @@
+/Users/ekaterina/Desktop/Desktop/C#rest/9lesson/bin/Debug/net6.0/9lesson
+/Users/ekaterina/Desktop/Desktop/C#rest/9lesson/bin/Debug/net6.0/9lesson.deps.json
+/Users/ekaterina/Desktop/Desktop/C#rest/9lesson/bin/Debug/net6.0/9lesson.runtimeconfig.json
+/Users/ekaterina/Desktop/Desktop/C#rest/9lesson/bin/Debug/net6.0/9lesson.dll
+/Users/ekaterina/Desktop/Desktop/C#rest/9lesson/bin/Debug/net6.0/ref/9lesson.dll
+/Users/ekaterina/Desktop/Desktop/C#rest/9lesson/bin/Debug/net6.0/9lesson.pdb
+/Users/ekaterina/Desktop/Desktop/C#rest/9lesson/obj/Debug/net6.0/9lesson.csproj.AssemblyReference.cache
+/Users/ekaterina/Desktop/Desktop/C#rest/9lesson/obj/Debug/net6.0/9lesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterina/Desktop/Desktop/C#rest/9lesson/obj/Debug/net6.0/9lesson.AssemblyInfoInputs.cache
+/Users/ekaterina/Desktop/Desktop/C#rest/9lesson/obj/Debug/net6.0/9lesson.AssemblyInfo.cs
+/Users/ekaterina/Desktop/Desktop/C#rest/9lesson/obj/Debug/net6.0/9lesson.csproj.CoreCompileInputs.cache
+/Users/ekaterina/Desktop/Desktop/C#rest/9lesson/obj/Debug/net6.0/9lesson.dll
+/Users/ekaterina/Desktop/Desktop/C#rest/9lesson/obj/Debug/net6.0/ref/9lesson.dll
+/Users/ekaterina/Desktop/Desktop/C#rest/9lesson/obj/Debug/net6.0/9lesson.pdb
+/Users/ekaterina/Desktop/Desktop/C#rest/9lesson/obj/Debug/net6.0/9lesson.genruntimeconfig.cache
